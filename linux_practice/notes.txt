@@ -1,0 +1,5 @@
+Hello, Linux!
+This is a practical exam.
+exam_log.txt
+notes.txt
+practice_subdir

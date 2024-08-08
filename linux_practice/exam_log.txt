@@ -154,3 +154,18 @@
  153 apk add apache2
  154 git checkout -b finalexam
  155 history > exam_log.txt
+ 156 git add exam_log.txt
+ 157 git commit -m "Added exam_log.txt with command history"
+ 158 git push origin finalexam
+ 159 gh auth login
+ 160 cd 225162145
+ 161 cd linux_practice
+ 162 git push origin final exam
+ 163 git status
+ 164 git log
+ 165 git config --global user.email "jedijune.quijada01@gmail.com"
+ 166 git config --global user.name "JediQuijada04"
+ 167 git push origin finalexam
+ 168 git config --global user.email "jedijune.quijada01@gmail.com"
+ 169 git config --global user.name "JediQuijada04"
+ 170 history > exam_log.txt

@@ -1,0 +1,222 @@
+   0 apk update
+   1 apk add nano
+   2 apk update
+   3 apk add nano
+   4 apk add bash
+   5 chsh -s /bin/bash
+   6 nano ~/ .bashrc
+   7 apk add
+   8 phg install java python3 php
+   9 pkg install java python3 php
+  10 php --install
+  11 apk update
+  12 apk add python3
+  13 apl update
+  14 apk update
+  15 apk add python3 
+  16 python3 --version
+  17 apk add pho
+  18 apk add php
+  19 pho --version
+  20 php --version
+  21 apk add openjdk11
+  22 apk add defaultjdk
+  23 vi /etc/apk/repositories
+  24 python3 --version
+  25 vi /etc/apk/repositories
+  26 apk update
+  27 apk add openjdk11
+  28 apk add openjdk8
+  29 apk search openjdk
+  30 apk app add openjdk17
+  31 apk add openjdk17
+  32 apk add openjdk8
+  33 apk add openjdk-17
+  34 apk add openjdk8
+  35 apk add github-cli-2.0-r1
+  36 apk add openjdk11
+  37 git
+  38 musl
+  39 git
+  40 apk add git
+  41 apk add github-cli
+  42 apk add git
+  43 apk add github-cli
+  44 cd ~
+  45 apk add github-cli
+  46 git clone https://github.com/JediQuijada04/225162145.git
+  47 cd 225162145
+  48 dir
+  49 ls
+  50 touch file1.txt
+  51 ls
+  52 git add .
+  53 git commit -m "Ano lang"
+  54 git config --global user.email "jedijune.quijada01@gmail.com"
+  55 git config --global user.name "Jedi Quijada"
+  56 git commit -m "ano lang"
+  57 apk add openjdk8
+  58 ls
+  59 nano HelloWorld.hava
+  60 nano HelloWorld.java
+  61 java HelloWorld.java
+  62 ecj HelloWorld.java
+  63 apk add ecj
+  64 java --version
+  65 openjdk8 --version
+  66 apk search ecg
+  67 apt install ecg
+  68 apk add ecj
+  69 ls
+  70 apk add docker
+  71 nano HelloWorld.java
+  72 javac HelloWorld.java
+  73 java HelloWorld
+  74 apk update
+  75 apk add openjdk8
+  76 pkg update
+  77 nano HelloWorld.java
+  78 javac HelloWorld.java
+  79 gh
+  80 ls
+  81 java -version
+  82 java -Xms64m -Xmx128m -version
+  83 javac HelloWorld.java
+  84 pkd update
+  85 pkg update
+  86 pkd upgrade
+  87 apk upgrade
+  88 python3 --version
+  89 nano HelloWorld.java
+  90 javac HelloWorld.java
+  91 apk update
+  92 apk upgrade
+  93 apk add openssh
+  94 passwd
+  95 ssh-keygen
+  96 /usr/sbin/sshd
+  97 whoami
+  98 ifconfig
+  99 cd jedi
+ 100 cd jedi.pub
+ 101 ssh-keygen
+ 102 /usr/sbin/sshd
+ 103 ifconfig
+ 104 whoami
+ 105 ssh root@hostname_or_ip -p 22
+ 106 ifconfig
+ 107 ssh-keygen
+ 108 /usr/sbin/sshd
+ 109 proot-distro login ubuntu
+ 110 pkg install proot
+ 111 apk install proot
+ 112 mkdir exam_log.txt
+ 113 cd 225162145
+ 114 history -c
+ 115 mkdir linux_practice
+ 116 cd linux_practice
+ 117 touch notes.txt
+ 118 cat note.txt
+ 119 ls >> notes.txt
+ 120 cat notes.txt
+ 121 echo "Hello, Linux!" > notes.txt
+ 122 echo "This is a practical exam." >> notes.txt
+ 123 head -n 1 notes.txt 
+ 124 tail -n 1 notes.txt
+ 125 mkdir subdir
+ 126 mv notes.txt subdir/
+ 127 mv subdir practice_subdir
+ 128 cp practice_subdir/notes.txt .
+ 129 date
+ 130 uptime
+ 131 du -sh ~
+ 132 ssh -V
+ 133 php -v
+ 134 mysql --version
+ 135 apache2 -v
+ 136 sudo apt-get update
+ 137 apk add mysql mysql-client
+ 138 mysql --version
+ 139 php -v
+ 140 apk add mysql mysql-client
+ 141 apk add apache2
+ 142 mysql --version
+ 143 apache2 -v
+ 144 apk add apache2
+ 145 apache2 -v
+ 146 cs 225162145
+ 147 cd 225162145
+ 148 cd Linux_Practice
+ 149 cd linux_practice
+ 150 python --version
+ 151 java -version
+ 152 apache2 -v
+ 153 apk add apache2
+ 154 git checkout -b finalexam
+ 155 history > exam_log.txt
+ 156 git add exam_log.txt
+ 157 git commit -m "Added exam_log.txt with command history"
+ 158 git push origin finalexam
+ 159 gh auth login
+ 160 cd 225162145
+ 161 cd linux_practice
+ 162 git push origin final exam
+ 163 git status
+ 164 git log
+ 165 git config --global user.email "jedijune.quijada01@gmail.com"
+ 166 git config --global user.name "JediQuijada04"
+ 167 git push origin finalexam
+ 168 git config --global user.email "jedijune.quijada01@gmail.com"
+ 169 git config --global user.name "JediQuijada04"
+ 170 history > exam_log.txt
+ 171 git add exam_log.txt
+ 172 git commit -m "Final Exam submission"
+ 173 git push origin finalexam
+ 174 gh auth login
+ 175 cd 225162145
+ 176 cd linux_practice
+ 177 ls >> notes.txt
+ 178 ls
+ 179 gh auth log
+ 180 gh auth login
+ 181 mysql --version
+ 182 apache2 --version
+ 183 apache2 -c
+ 184 apache2 -v
+ 185 apk add apache2
+ 186 gh repo clone https://github.com/JediQuijada04/225162145.git
+ 187 gh auth login
+ 188 cd 225162145
+ 189 cd linux_practice
+ 190 ls
+ 191 git checkout -b final exam
+ 192 history > exam_log.txt
+ 193 git add exam_log.txt
+ 194 git commit -m "final exam"
+ 195 git push
+ 196 git push --set-upstream origin finalexam
+ 197 gh auth log
+ 198 gh auth login
+ 199 ls
+ 200 cd 225162145
+ 201 ls
+ 202 cd linix_practice
+ 203 cd linux_practice
+ 204 ls
+ 205 cd practice_subdir
+ 206 ls
+ 207 git push origin main
+ 208 ssh-keygen -t ed25519 -C "your_email@example.com"
+ 209 eval "$(ssh-agent -s)"
+ 210 ssh-add ~/.ssh/id_ed22519
+ 211 cat ~/.ssh/id_ed25519.pub
+ 212 git remote set-url origin git@github.com:jedijune.quijada01/225162145.git
+ 213 git push origin finalexam
+ 214 gh repo https://github.com/JediQuijada04/225162145.git
+ 215 gh repo clone https://github.com/JediQuijada04/225162145.git
+ 216 gh auth login
+ 217 apk install openjdk-17
+ 218 gh repo clone https://github.com/JediQuijada04/225162145
+ 219 cd 225162145
+ 220 git checkout -b finalexam
+ 221 history > exam_log.txt

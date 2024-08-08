@@ -169,3 +169,25 @@
  168 git config --global user.email "jedijune.quijada01@gmail.com"
  169 git config --global user.name "JediQuijada04"
  170 history > exam_log.txt
+ 171 git add exam_log.txt
+ 172 git commit -m "Final Exam submission"
+ 173 git push origin finalexam
+ 174 gh auth login
+ 175 cd 225162145
+ 176 cd linux_practice
+ 177 ls >> notes.txt
+ 178 ls
+ 179 gh auth log
+ 180 gh auth login
+ 181 mysql --version
+ 182 apache2 --version
+ 183 apache2 -c
+ 184 apache2 -v
+ 185 apk add apache2
+ 186 gh repo clone https://github.com/JediQuijada04/225162145.git
+ 187 gh auth login
+ 188 cd 225162145
+ 189 cd linux_practice
+ 190 ls
+ 191 git checkout -b final exam
+ 192 history > exam_log.txt
